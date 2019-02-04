@@ -2,7 +2,7 @@
  Vision Zero NYC Open Data Analysis
 
 ## Visualisation 1
-![screenshot](final.png)
+![screenshot](figure1.png)
 
 ### Figure interpretation
 The first choropleths on the left above show the hotspots and coldspots, ie, the police precints having high incidence(hotspots) and low incidence(coldspots). High collision cluster can be found in the precincts of Queens. There is a cluster of precincts in Manhattan which is a center of low collisions.
