@@ -18,7 +18,8 @@ The above graphs , while they tell us what we already know. Thus, we need to loo
 
 
 ### Figure interpretation
+
 The above figure shows how important the features are when it comes to predicting the number of collisions on the given street conditions. The random forest regression tree has an r-squared value about 0.35, which means it can explain about 35% of the variance. This graph is therefore a confirmation that existing street conditions are a reliable indicator of the collision conditions.
 
-Future work involves unearthing more other street conditions and developing a classifier to identify what type of accidents a particular street is more prone to
+Due to skew in the dataset, the multinomial naive bayes classifer seems to predict the motor and non accidents more accurately than the ones where pedestrians and cyclists are involved.
 
