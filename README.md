@@ -14,7 +14,7 @@ With bikesharing companies like Citibike rolling out its services, the number of
 The above graphs , while they tell us what we already know. Thus, we need to look into the street conditions and its characteristics to better understand what might be causing the acccidents.
 
 ## Visualisation 2
-![screenshot](fig2.png)
+![screenshot](fig2.png) ![screenshot](cm.png)
 
 
 ### Figure interpretation
